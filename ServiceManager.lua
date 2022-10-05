@@ -1,3 +1,11 @@
+--! Strict
+
+--[[
+	Service Manager: V.01
+	Built By rsxpct
+	DM me bugs/suggestions in discord, rsxpct#0001.
+]]
+
 local ServiceManager = {}
 ServiceManager.__index = ServiceManager
 
